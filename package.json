@@ -1,6 +1,6 @@
 {
-  "name": "logseq-plugin-template-react",
-  "version": "0.0.0",
+  "name": "logseq-disdis",
+  "version": "0.0.1",
   "main": "dist/index.html",
   "scripts": {
     "dev": "vite",
@@ -12,7 +12,7 @@
     "@logseq/libs": "^0.0.6",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-use": "^17.3.2"
+    "react-use": "^17.4.0"
   },
   "devDependencies": {
     "@semantic-release/changelog": "6.0.1",
@@ -38,7 +38,7 @@
     "windicss": "3.5.4"
   },
   "logseq": {
-    "id": "_pengx17-logseq-template-react",
+    "id": "_qwxlea_disdis",
     "icon": "./logo.svg"
   }
 }
